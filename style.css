@@ -1,0 +1,13 @@
+/*Selector (css syntax)*/
+a:hover
+{
+    background-color:orange;
+}
+li:nth-child(2)
+{
+    background-color:blueviolet;
+}
+div:not(.c3)
+{
+    background-color: cadetblue;
+}
